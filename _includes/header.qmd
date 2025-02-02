@@ -1,0 +1,9 @@
+```{=html}
+<header>
+    <div class="container">
+        <div class="header-content">
+            <a href="./" class="logo">City Girl Fashion</a>
+        </div>
+    </div>
+</header>
+```

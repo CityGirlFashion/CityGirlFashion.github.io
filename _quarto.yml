@@ -1,0 +1,16 @@
+project:
+  type: website
+
+website:
+  title: "City Girl Fashion"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
