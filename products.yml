@@ -5,6 +5,14 @@ products:
     discount_percent: ""            # Alternatively, set e.g. "10" for 
     payment_options: "COD, Google Pay, UPI"
     sizes: "Free Size"
-    description: "A stunning Kanjivaram silk saree with rich colors and intricate zari work."
+    description: "Beautiful Art Silk Golden handwork lace with simmri Tissue Golden Saree"
     images: "2TON1.jpg, ton3.jpg, ton4.jpg, ton5.jpg"
 
+  - name: "Red Flower Saree"
+    price: "2500"
+    discounted_price: "999"   # Optional: if provided, JS computes discount percent.
+    discount_percent: ""            # Alternatively, set e.g. "10" for 
+    payment_options: "COD, Google Pay, UPI"
+    sizes: "Free Size"
+    description: "Beautiful Red Flower Georgette Saree with Serosaki Work  "
+    images: "redflower1.jpg, redflower2.jpg, redflower3.jpg, redflower4.jpg, redflower5.jpg, redflower6.jpg"
