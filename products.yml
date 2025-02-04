@@ -16,3 +16,12 @@ products:
     sizes: "Free Size"
     description: "Beautiful Red Flower Georgette Saree with Serosaki Work  "
     images: "redflower1.jpg, redflower2.jpg, redflower3.jpg, redflower4.jpg, redflower5.jpg, redflower6.jpg"
+
+  - name: "Wine Flower Saree"
+    price: "2500"
+    discounted_price: "999"   # Optional: if provided, JS computes discount percent.
+    discount_percent: ""            # Alternatively, set e.g. "10" for 
+    payment_options: "COD, Google Pay, UPI"
+    sizes: "Free Size"
+    description: "Beautiful Wine  Flower Georgette Saree with Serosaki Work  "
+    images: "wineflower1.jpg, wineflower2.jpg, wineflower3.jpg, wineflower4.jpg, wineflower5.jpg, wineflower6.jpg"
